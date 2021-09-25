@@ -1,0 +1,12 @@
+.btn-card {
+  background-color: green;
+  color: white;
+  width: 150px;
+  height: 35px;
+  border-radius: 12px;
+  cursor: pointer;
+}
+
+.card {
+  width: 18rem;
+}

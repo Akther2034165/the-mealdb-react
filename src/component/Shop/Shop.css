@@ -1,0 +1,23 @@
+.shop-container {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+}
+.food-container {
+  border-right: 1px solid lightgray;
+  margin-left: 60px;
+  padding: 40px;
+}
+.search-container {
+  background-color: rgb(112, 109, 109);
+  text-align: center;
+  padding: 15px;
+}
+.search-container input {
+  width: 50%;
+  height: 30px;
+  border-radius: 10px;
+  padding: 5px;
+}
+.row {
+  row-gap: 15px;
+}
